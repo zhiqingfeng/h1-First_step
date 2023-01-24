@@ -8,5 +8,6 @@ Now I could log in after installed the Debian Installer.
 ![Add file: Upload](Screenshot 2023-01-24 200746.png)
 
 I couldn't use sudo command. 
+
 ![Add file: Upload](Screenshot 2023-01-24 201132.png)
 I think this casued by i installed the Debian installer but not Debian GNU/Linux live.
