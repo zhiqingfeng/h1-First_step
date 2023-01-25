@@ -11,3 +11,9 @@ I couldn't use sudo command.
 
  ![Add file: Upload](Screenshot 2023-01-24 201132.png)
 I think this casued by i installed the Debian installer but not Debian GNU/Linux live.
+-----------Start Over-----------
+Step 1: 
+- Installed the VirtualBox on Macbook, and created a new Virtual Machine. 
+Setp 2:
+- Started the app, choosed Debian GNU/Linux Live (kernel 5.10.0-20amd64)
+- It didnt work again, so I installed the Debian Installer again on Macbook.
