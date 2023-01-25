@@ -17,3 +17,9 @@ Step 1:
 Setp 2:
 - Started the app, choosed Debian GNU/Linux Live (kernel 5.10.0-20amd64)
 - It didnt work again, so I installed the Debian Installer again on Macbook.
+-----------Start Over again------------
+Step 1:
+Go back to Windows laptop and log in the application.
+Step 2:
+I typed sudo apt-get update.But there displayed my username is not in the sudoers file. This incident will be reported. 
+Now looking for the root reason of this issue. :( 
