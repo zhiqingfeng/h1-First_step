@@ -152,6 +152,7 @@ Now looking for the root reason of this issue. :(
 
 ### UPDATE -- FINAL VERSION
 **1. Installed the UPM.**
+- Watched youtube video to insatll UPM. [Youtube.com](https://www.youtube.com/watch?v=yCTx-Xg8uuQ&ab_channel=KskRoyal)
 - <img width="915" alt="image" src="https://user-images.githubusercontent.com/95883827/214858308-8723be8e-4523-4843-9f4d-4365a738079c.png">
 
 **2. logged in Debian successfully. :) (So I am doing everything in DebainLinuxBullsEye now.) **
@@ -221,7 +222,9 @@ And then I installed Java and Javac, and now it's available to use java command 
 
 ## Sources
 
-**Tasks: [Tero-Karvinen_h1_first-steps](https://terokarvinen.com/2023/information-security-2023/?f=moodle#h1-first-steps)**
+**Tasks: **
+
+[Tero-Karvinen_h1_first-steps](https://terokarvinen.com/2023/information-security-2023/?f=moodle#h1-first-steps)
 
 **Lectures:**
 
@@ -234,4 +237,12 @@ And then I installed Java and Javac, and now it's available to use java command 
 [VirtualBox Download page](https://www.virtualbox.org/wiki/Downloads)
 
 [Karvinen 2021: Install Debian on VirtualBox](https://terokarvinen.com/2021/install-debian-on-virtualbox/)
+
+**Extranal resouces**
+
+[WebServerTalk](https://www.webservertalk.com/dashed-filename).
+
+[Medium.com](https://medium.com/@theGirlWhoEncrypts/overthewire-bandit-level-3-level-4-ab55bcdcff36).
+
+[Youtube.com](https://www.youtube.com/watch?v=yCTx-Xg8uuQ&ab_channel=KskRoyal)
 
