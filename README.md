@@ -30,6 +30,7 @@ exit
 ### LEVEL 1 -> LEVEL 2
 The command I used for this level
 ```
+ssh
 ls
 cat
 exit
@@ -39,8 +40,34 @@ exit
 - <img width="168" alt="image" src="https://user-images.githubusercontent.com/95883827/214847411-d1a2ab51-fc2a-44d1-ae31-f330539dd7ea.png">
 
 - Use this link could hlep you understand [WebServerTalk](https://www.webservertalk.com/dashed-filename).
-- Used ```cat``` to read the dashfile(-) 
+- Used ```cat``` to read the dashfile(-), now I can see the password for next level. :) 
 - <img width="255" alt="image" src="https://user-images.githubusercontent.com/95883827/214848007-2249309c-b051-4d3a-8cfb-9584c19fd159.png">
+- Now use ```exit``` command to exit from banit1. 
+- 
+### LEVEL 2 -> LEVEL 3
+The command I used for this level
+```
+ssh
+ls
+cat
+exit
+```
+- Connected bandit2 with command ```ssh```to ```bandit2@bandit.labs.overthewire.org```
+- <img width="592" alt="image" src="https://user-images.githubusercontent.com/95883827/214849535-1cee0475-40e3-4511-8eb0-e840c9ed8925.png">
+- Use command ```ls``` to find the password file. 
+- Use ```cat``` command, and the terminal automatically help me to filled up the command with  ```->``` from keyboard.
+- <img width="357" alt="image" src="https://user-images.githubusercontent.com/95883827/214849856-dec99db5-3d36-4800-9df3-cfec72389fd9.png">
+- Exit from the bandit2 server. And going to the next level.
+
+### LEVEL 3 -> LEVEL4
+The command I used for this level
+```
+ssh
+ls
+cat
+exit
+```
+
 
 ## Bullseye
 ### Error before working on Debain.
