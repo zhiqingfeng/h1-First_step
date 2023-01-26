@@ -119,6 +119,8 @@ exit
 > This is very interesting game and it's very partical to know which command to search what you want to know. I will play more later. :) 
 
 
+
+
 ## Bullseye
 ### Error before working on Debain.
 When I was following the instruction by Tero, I couldn't install any Debain in my laptop. The problem is that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
@@ -158,6 +160,8 @@ Now looking for the root reason of this issue. :(
 
 
 
+
+
 ## WebGoat
 
 ### Install and Run WebGoat
@@ -176,6 +180,8 @@ And then I installed Java and Javac, and now it's available to use java command 
 - ![image](https://user-images.githubusercontent.com/95883827/214860871-f847db1d-dc65-4078-ad63-6abb51f1a1b5.png)
 
 
+
+
 ## Hacker warmup
 
 ### General: HTTP Basics
@@ -188,8 +194,23 @@ And then I installed Java and Javac, and now it's available to use java command 
 
 
 ### General: Developer tools
-1) PhoneHome response is 807131848
-2) networkNum: 14.930557891802575
+1) PhoneHome response is -936564531.
+- Used console to call the js fucntion webgoat.customjs.phoneHome()
+- ![image](https://user-images.githubusercontent.com/95883827/214862699-630f7406-5289-488e-861a-f03bc0045505.png)
+- ![image](https://user-images.githubusercontent.com/95883827/214862973-9c0670d5-dbeb-453b-8cda-c3dfe1dbd1c8.png)
+
+
+2) networkNum: 81.25169955003777
+- First go to NETWORk, and then press claen button to clean the traffic of network. 
+- ![image](https://user-images.githubusercontent.com/95883827/214863319-22ac4cd8-5df4-4430-a349-684b11dc94d2.png)
+- Secondly, pressed GO to know the newest network traffic. 
+- ![image](https://user-images.githubusercontent.com/95883827/214863466-d7c4dbc1-e875-44c4-8d29-77ebfa69625a.png)
+- Lastly, go to Request to see the networkNum.
+- ![image](https://user-images.githubusercontent.com/95883827/214863710-65e81730-92d2-40f6-9115-28cdd9cdbb83.png)
+- ![image](https://user-images.githubusercontent.com/95883827/214863880-cff52585-ae68-4e7d-a96b-afdb279d1b12.png)
+
+
+
 
 
 ## Sources
