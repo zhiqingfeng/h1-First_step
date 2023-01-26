@@ -228,7 +228,7 @@ And then I installed Java and Javac, and now it's available to use java command 
 
 ## Sources
 
-**Tasks: **
+**Tasks:**
 
 [Tero-Karvinen_h1_first-steps](https://terokarvinen.com/2023/information-security-2023/?f=moodle#h1-first-steps)
 
