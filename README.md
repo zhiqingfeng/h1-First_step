@@ -7,14 +7,19 @@ Using Hauwei Laptop and Macbook Air for this course.
 - In this level, I need to use ssh command to connect the bandit.labs.overthewire.org
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/95883827/214844049-3f3b6600-8f1f-4827-b7f3-c200eb3b6b9f.png">
 
-### LEVEL 0 - LEVEL 1
+### LEVEL 0 -> LEVEL 1
 - Use less command to check the password from the home directory. 
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/95883827/214844542-3bde48bf-0e74-4719-ba62-2c75dced7f5a.png">
 - NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+- Exit from the bandit0.
 - Logged in to bandit1 successfully.
 <img width="587" alt="image" src="https://user-images.githubusercontent.com/95883827/214845358-c14ba0b8-3de2-42da-98cc-fa330907e6cd.png">
 
+ls
+cat
+exit
 
+### LEVEL 1 -> LEVEL 2
 ## Bullseye
 ### Error before working on Debain.
 Here have a problem that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
