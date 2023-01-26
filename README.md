@@ -88,6 +88,17 @@ exit
 
 
 ### LEVEL 4 -> LEVEL 5
+The command I used for this level
+```
+ssh
+ls
+ls -larth
+cd
+find
+file
+cat
+exit
+```
 - Used ```ssh``` to connect bandit4.
 - <img width="579" alt="image" src="https://user-images.githubusercontent.com/95883827/214854675-1d7ed8c8-ec89-400b-91cc-26d4ad0639d9.png">
 - In this game, I used the command as follow to know the details.
@@ -98,7 +109,7 @@ exit
 - <img width="289" alt="image" src="https://user-images.githubusercontent.com/95883827/214855562-69c2cb12-c3d0-4015-955d-98de6953c7ae.png">
 - Exit from the bandit4 server. 
 
-
+> This is very interesting game and it's very partical to use the command to search what you want to know. 
 
 
 ## Bullseye
