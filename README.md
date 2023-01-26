@@ -27,8 +27,17 @@ exit
 <img width="587" alt="image" src="https://user-images.githubusercontent.com/95883827/214845358-c14ba0b8-3de2-42da-98cc-fa330907e6cd.png">
 
 
-
 ### LEVEL 1 -> LEVEL 2
+The command I used for this level
+```
+ls
+less
+exit
+```
+- The home directory only have dash file. 
+  <img width="168" alt="image" src="https://user-images.githubusercontent.com/95883827/214847411-d1a2ab51-fc2a-44d1-ae31-f330539dd7ea.png">
+  Use this link could hlep you understand [WebServerTalk](https://www.webservertalk.com/dashed-filename).
+- 
 ## Bullseye
 ### Error before working on Debain.
 Here have a problem that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
