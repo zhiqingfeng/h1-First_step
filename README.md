@@ -28,7 +28,7 @@ I typed sudo apt-get update.But there displayed my username is not in the sudoer
 Now looking for the root reason of this issue. :( 
 
 
-## Update 
+## UPDATE -- FINAL VERSION
 1. installed the UPM and logged in Debian successfully. :) (So I am doing everything in DebainLinuxBullsEye) 
 2. Installed and Ran WebGoat. But I couldn't run the java command --> (bash:java:command not found) 
 3. Looking for the solution about java command. 
