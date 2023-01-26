@@ -1,9 +1,16 @@
 # H1-First Step
 This is the homework for the course Information Security by Tero Karvinen.
 Using Hauwei Laptop and Macbook Air for this course. 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 ## Bandit oh-five (LEVEL 0-4) 
-### LEVLE 0 
+### +LEVLE 0+ 
 The command I used for this level
 ```
 ssh
@@ -11,7 +18,7 @@ ssh
 - In this level, I need to use ```ssh``` command to connect the ```bandit.labs.overthewire.org```
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/95883827/214844049-3f3b6600-8f1f-4827-b7f3-c200eb3b6b9f.png">
 
-### +LEVEL 0 -> LEVEL 1+
+### LEVEL 0 -> LEVEL 1
 The command I used for this level
 ```
 ls
