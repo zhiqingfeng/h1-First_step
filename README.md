@@ -2,7 +2,9 @@
 This is the homework for the course Information Security by Tero Karvinen.
 Using Hauwei Laptop and Macbook Air for this course. 
 
-## Bandit oh-five
+## Bandit oh-five (LEVEL 0-4) 
+### LEVLE 0 
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/95883827/214844049-3f3b6600-8f1f-4827-b7f3-c200eb3b6b9f.png">
 
 
 ## Bullseye
