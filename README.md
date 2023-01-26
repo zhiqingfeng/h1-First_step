@@ -71,13 +71,17 @@ exit
 ```
 - Used ```ssh``` to connect to bandit3 
 - <img width="559" alt="image" src="https://user-images.githubusercontent.com/95883827/214850661-c8134ed3-25c0-4a9d-952d-2357e2bb25b0.png">
-- Used ```ls``` to find the inhere folder, and ```cd``` go to folder inhere, and then used ```ls```, there is empty. Then I used ```find``` to see what kind of the directory inside this folder. 
+- Used ```ls``` to find the inhere directory, and ```cd``` go to ```inhere```, and then used ```ls```, there is empty. Then I used ```find``` to search for files in a directory hierarchy   ,so that I can see what kind of the file inside this directory. 
 - <img width="231" alt="image" src="https://user-images.githubusercontent.com/95883827/214851510-cf84d6df-1404-4d62-a392-3015e75c9230.png">
-- NOTE: if I used cd then it will look like this, that's why i used find to know what is the hidden file. 
-- ```
+  NOTE: if I used cd then it will look like this, that's why i used find to know what is the hidden file. 
+  ```
   bandit3@bandit:~$ cat inhere/
   cat: inhere/: Is a directory
   ```
+- So I google the solution to read the hidden file. Use this link could hlep you understand [Medium.com](https://medium.com/@theGirlWhoEncrypts/overthewire-bandit-level-3-level-4-ab55bcdcff36).
+- Used ```ls -a``` to list all hidden dot files  the and then used ```cat``` to read the hidden file.
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/95883827/214853386-c386bb15-5663-4bc8-a46e-d110a1d17e4c.png">
+
 ## Bullseye
 ### Error before working on Debain.
 Here have a problem that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
