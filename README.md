@@ -152,7 +152,7 @@ Now looking for the root reason of this issue. :(
 
 ### UPDATE -- FINAL VERSION
 **1. Installed the UPM.**
-- Watched youtube video to insatll UPM. [Youtube.com](https://www.youtube.com/watch?v=yCTx-Xg8uuQ&ab_channel=KskRoyal)
+- Watched youtube video to insatll UPM. [How To Install Debian Linux 11 (BULLSEYE) On ANY M1/M2 Mac Using UTM || Linux On APPLE SILICON](https://www.youtube.com/watch?v=yCTx-Xg8uuQ&ab_channel=KskRoyal)
 - <img width="915" alt="image" src="https://user-images.githubusercontent.com/95883827/214858308-8723be8e-4523-4843-9f4d-4365a738079c.png">
 
 **2. logged in Debian successfully. :) (So I am doing everything in DebainLinuxBullsEye now.) **
@@ -242,7 +242,7 @@ And then I installed Java and Javac, and now it's available to use java command 
 
 [WebServerTalk](https://www.webservertalk.com/dashed-filename).
 
-[Medium.com](https://medium.com/@theGirlWhoEncrypts/overthewire-bandit-level-3-level-4-ab55bcdcff36).
+[</ OverTheWire > Bandit Level 3 → Level 4](https://medium.com/@theGirlWhoEncrypts/overthewire-bandit-level-3-level-4-ab55bcdcff36).
 
-[Youtube.com](https://www.youtube.com/watch?v=yCTx-Xg8uuQ&ab_channel=KskRoyal)
+[How To Install Debian Linux 11 (BULLSEYE) On ANY M1/M2 Mac Using UTM || Linux On APPLE SILICON](https://www.youtube.com/watch?v=yCTx-Xg8uuQ&ab_channel=KskRoyal)
 
