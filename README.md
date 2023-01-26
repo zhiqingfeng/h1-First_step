@@ -4,22 +4,26 @@ Using Hauwei Laptop and Macbook Air for this course.
 
 ## Bandit oh-five (LEVEL 0-4) 
 ### LEVLE 0 
-- In this level, I need to use ssh command to connect the bandit.labs.overthewire.org
+The command I used for this level
+```
+ssh
+```
+- In this level, I need to use ```ssh``` command to connect the ```bandit.labs.overthewire.org```
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/95883827/214844049-3f3b6600-8f1f-4827-b7f3-c200eb3b6b9f.png">
 
 ### LEVEL 0 -> LEVEL 1
 The command I used for this level
 ```
 ls
-cat
+less
 exit
 ```
 
 - Use ```less``` command to check the password from the home directory. 
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/95883827/214844542-3bde48bf-0e74-4719-ba62-2c75dced7f5a.png">
 
-- Exit from the bandit0.
-- Logged in to bandit1 successfully.
+- Use ```exit``` from the bandit0 server.
+- Logged in to bandit1 successfully with the password which copied from bandit0.
 <img width="587" alt="image" src="https://user-images.githubusercontent.com/95883827/214845358-c14ba0b8-3de2-42da-98cc-fa330907e6cd.png">
 
 
