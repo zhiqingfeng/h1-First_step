@@ -31,13 +31,17 @@ exit
 The command I used for this level
 ```
 ls
-less
+cat
 exit
 ```
 - The home directory only have dash file. 
-  <img width="168" alt="image" src="https://user-images.githubusercontent.com/95883827/214847411-d1a2ab51-fc2a-44d1-ae31-f330539dd7ea.png">
-  Use this link could hlep you understand [WebServerTalk](https://www.webservertalk.com/dashed-filename).
-- 
+
+- <img width="168" alt="image" src="https://user-images.githubusercontent.com/95883827/214847411-d1a2ab51-fc2a-44d1-ae31-f330539dd7ea.png">
+
+- Use this link could hlep you understand [WebServerTalk](https://www.webservertalk.com/dashed-filename).
+- Used ```cat``` to read the dashfile(-) 
+- <img width="255" alt="image" src="https://user-images.githubusercontent.com/95883827/214848007-2249309c-b051-4d3a-8cfb-9584c19fd159.png">
+
 ## Bullseye
 ### Error before working on Debain.
 Here have a problem that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
