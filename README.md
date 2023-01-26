@@ -14,6 +14,7 @@ Using Macbook Air for this all the assignments in this course.
 ### Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, chapters Abstract, 3.2 Intrusion Kill Chain and 3.3 Courses of Action
 
 *Intrusion Kill Chian*
+  
   This is the new cyberattack.The Intrusion Kill Chain is divided into seven stages: reconnaissance, weaponization, delivery, exploitation, installation, command and control (C2), and actions on objectives. These steps is requested attacker must complete in order to achieve their objective. 
   
   In our daily life, we might be expeirence cyber attack by attacker using this Kill Chian, such as the attacker sneds a phishing email with a malicious file or link to the victim. And this is happening nowadays. 
@@ -24,7 +25,7 @@ This pic is hleping me understand better [KillChain](https://www.google.com/url?
 
 <img width="968" alt="image" src="https://user-images.githubusercontent.com/95883827/214947955-e7a35869-14f6-4fe8-8e46-e4fbf49d7a9a.png">
 *This is the picture from the artical that offered by Tero*
-
+This approach is to understanding the adversary and resolve the attack. 
 
 
 ### Karvinen 2020: Command Line Basics Revisited
