@@ -1,6 +1,10 @@
-# h1-First_step
+# H1-First_step
 
-## Error before working on Debain.
+## Bandit oh-five
+
+
+## Bullseye
+### Error before working on Debain.
 Here have a problem that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
 Now I am installing the Debian installer. Evrything on the process. Not so sure can I install this? 
 
@@ -28,12 +32,15 @@ I typed sudo apt-get update.But there displayed my username is not in the sudoer
 Now looking for the root reason of this issue. :( 
 
 
-## UPDATE -- FINAL VERSION
+### UPDATE -- FINAL VERSION
 1. installed the UPM and logged in Debian successfully. :) (So I am doing everything in DebainLinuxBullsEye) 
-2. Installed and Ran WebGoat. But I couldn't run the java command --> (bash:java:command not found) 
-3. Looking for the solution about java command. 
-4. Installed Java and Javac, and now it's available to use java command and registered on WebGoat successfully. :) 
-5. Hacker warmup
+
+## WebGoat
+1. Installed and Ran WebGoat. But I couldn't run the java command --> (bash:java:command not found) 
+2. Looking for the solution about java command. 
+3. Installed Java and Javac, and now it's available to use java command and registered on WebGoat successfully. :) 
+## Hacker warmup
+
    1) General: HTTP Basics
      - Entered my name and press GO!. 
      - Magic number is 71. Found it from the HTML by searched the keyword.
