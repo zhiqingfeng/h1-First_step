@@ -15,6 +15,18 @@ Using Macbook Air for this all the assignments in this course.
 
 ### Karvinen 2020: Command Line Basics Revisited
 
+*THIS IS THE NOTE AFTER I READ THE MATERIAL*
+```
+$ pwd --> Know the path
+$ ls --> List the files
+$ cd terosdir/ --> Go to specific directory
+$ nano FOO.TXT --> Edit file by nano
+$ mkdir NEWFOLDER --> Create a new directory
+$ mv OLDNAME NEWNAME --> Move or rename directory
+$ ssh tero@example.com --> SSH remote control, connect to another server. 
+$ scp -r FOLDER tero@example.com:public_html/ --> Copy FOLDER to a folder in remote machine.
+```
+
 ## Bandit oh-five (LEVEL 0-4) 
 ### LEVLE 0
 The command I used for this level
@@ -228,11 +240,11 @@ And then I installed Java and Javac, and now it's available to use java command 
 
 ## Sources
 
-**Tasks:**
+**Tasks**
 
 [Tero-Karvinen_h1_first-steps](https://terokarvinen.com/2023/information-security-2023/?f=moodle#h1-first-steps)
 
-**Lectures:**
+**Lectures**
 
 [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 
