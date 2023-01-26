@@ -151,10 +151,10 @@ Now looking for the root reason of this issue. :(
 
 
 ### UPDATE -- FINAL VERSION
-1. Installed the UPM.
+**1. Installed the UPM.**
 - <img width="915" alt="image" src="https://user-images.githubusercontent.com/95883827/214858308-8723be8e-4523-4843-9f4d-4365a738079c.png">
 
-2. logged in Debian successfully. :) (So I am doing everything in DebainLinuxBullsEye now.) 
+**2. logged in Debian successfully. :) (So I am doing everything in DebainLinuxBullsEye now.) **
 - ![image](https://user-images.githubusercontent.com/95883827/214858482-73f85aeb-4c69-4661-b306-72dd182461ca.png)
 - ![image](https://user-images.githubusercontent.com/95883827/214858592-e0ab3cc1-0d62-4c40-a9b9-bc30970062b8.png)
 
@@ -166,11 +166,12 @@ Now looking for the root reason of this issue. :(
 
 ### Install and Run WebGoat
 
-1. Installed and Ran WebGoat. Couldn't use command ```sudo```, because I am not belong to sudoers. So I changed the permission with my username and it worked. 
+**1. Installed and Ran WebGoat. Couldn't use command ```sudo```, because I am not belong to sudoers. So I changed the permission with my username and it worked. **
 -  <img width="742" alt="Password" src="https://user-images.githubusercontent.com/95883827/214859066-85a93f2b-a421-4df2-9448-1b44d633365a.png">
 -  <img width="733" alt="trust you have received the usual lecture from the local System the" src="https://user-images.githubusercontent.com/95883827/214859125-3316f303-b695-46a5-8d9d-0b4b3a837329.png">
 
-2. But I couldn't run the java command --> (bash:java:command not found). Looking for the solution about java command. 
+**2. But I couldn't run the java command --> (bash:java:command not found). Looking for the solution about java command. **
+
 Use this link could hlep you understand [CloudLinuxTech](https://cloudlinuxtech.com/java-command-not-found-error/).
 
 And then I installed Java and Javac, and now it's available to use java command and registered on WebGoat successfully. :) 
@@ -185,22 +186,26 @@ And then I installed Java and Javac, and now it's available to use java command 
 ## Hacker warmup
 
 ### General: HTTP Basics
-1) Entered my name and press GO!. 
+1) **Entered my name and press GO!. **
+
 - ![image](https://user-images.githubusercontent.com/95883827/214861043-d2190e3e-6072-42df-95d3-e5ec8d64c9a7.png)
 
-2) Magic number is 87. Found it from the Inspector by searched the keyword ```#magic_num```.
+2) **Magic number is 87. Found it from the Inspector by searched the keyword ```#magic_num```.**
+
 - ![image](https://user-images.githubusercontent.com/95883827/214861682-642a288d-860b-4213-80f9-6988bf87daf6.png)
 - ![image](https://user-images.githubusercontent.com/95883827/214861915-5837f93b-9ef3-4b0c-b940-482027657d90.png)
 
 
 ### General: Developer tools
-1) PhoneHome response is -936564531.
+1) **PhoneHome response is -936564531.**
+
 - Used console to call the js fucntion webgoat.customjs.phoneHome()
 - ![image](https://user-images.githubusercontent.com/95883827/214862699-630f7406-5289-488e-861a-f03bc0045505.png)
 - ![image](https://user-images.githubusercontent.com/95883827/214862973-9c0670d5-dbeb-453b-8cda-c3dfe1dbd1c8.png)
 
 
-2) networkNum: 81.25169955003777
+2) **networkNum: 81.25169955003777**
+
 - First go to NETWORk, and then press claen button to clean the traffic of network. 
 - ![image](https://user-images.githubusercontent.com/95883827/214863319-22ac4cd8-5df4-4430-a349-684b11dc94d2.png)
 - Secondly, pressed GO to know the newest network traffic. 
@@ -218,7 +223,7 @@ And then I installed Java and Javac, and now it's available to use java command 
 
 **Tasks: [Tero-Karvinen_h1_first-steps](https://terokarvinen.com/2023/information-security-2023/?f=moodle#h1-first-steps)**
 
-**Lectures:
+**Lectures:**
 
 [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 
@@ -228,5 +233,5 @@ And then I installed Java and Javac, and now it's available to use java command 
 
 [VirtualBox Download page](https://www.virtualbox.org/wiki/Downloads)
 
-[Karvinen 2021: Install Debian on VirtualBox](https://terokarvinen.com/2021/install-debian-on-virtualbox/)**
+[Karvinen 2021: Install Debian on VirtualBox](https://terokarvinen.com/2021/install-debian-on-virtualbox/)
 
