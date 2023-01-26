@@ -73,8 +73,11 @@ exit
 - <img width="559" alt="image" src="https://user-images.githubusercontent.com/95883827/214850661-c8134ed3-25c0-4a9d-952d-2357e2bb25b0.png">
 - Used ```ls``` to find the inhere folder, and ```cd``` go to folder inhere, and then used ```ls```, there is empty. Then I used ```find``` to see what kind of the directory inside this folder. 
 - <img width="231" alt="image" src="https://user-images.githubusercontent.com/95883827/214851510-cf84d6df-1404-4d62-a392-3015e75c9230.png">
-
-
+- NOTE: if I used cd then it will look like this, that's why i used find to know what is the hidden file. 
+- ```
+  bandit3@bandit:~$ cat inhere/
+  cat: inhere/: Is a directory
+  ```
 ## Bullseye
 ### Error before working on Debain.
 Here have a problem that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
