@@ -11,7 +11,7 @@ ssh
 - In this level, I need to use ```ssh``` command to connect the ```bandit.labs.overthewire.org```
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/95883827/214844049-3f3b6600-8f1f-4827-b7f3-c200eb3b6b9f.png">
 
-### LEVEL 0 -> LEVEL 1
+### +LEVEL 0 -> LEVEL 1+
 The command I used for this level
 ```
 ls
