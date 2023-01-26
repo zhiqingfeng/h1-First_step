@@ -10,7 +10,7 @@ Using Hauwei Laptop and Macbook Air for this course.
 ```
 
 ## Bandit oh-five (LEVEL 0-4) 
-### +LEVLE 0+ 
+### LEVLE 0
 The command I used for this level
 ```
 ssh
@@ -116,7 +116,7 @@ exit
 - <img width="289" alt="image" src="https://user-images.githubusercontent.com/95883827/214855562-69c2cb12-c3d0-4015-955d-98de6953c7ae.png">
 - Exit from the bandit4 server. 
 
-> This is very interesting game and it's very partical to use the command to search what you want to know. 
+> This is very interesting game and it's very partical to know which command to search what you want to know. I will play more later. :) 
 
 
 ## Bullseye
