@@ -11,8 +11,6 @@ Using Macbook Air for this all the assignments in this course.
 
 ## Read and summarize
 
-### Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, chapters Abstract, 3.2 Intrusion Kill Chain and 3.3 Courses of Action
-
 ### Karvinen 2020: Command Line Basics Revisited
 
 *THIS IS THE NOTE AFTER I READ THE MATERIAL*
