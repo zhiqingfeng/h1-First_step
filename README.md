@@ -66,6 +66,8 @@ The command I used for this level
 ```
 ssh
 ls
+cd
+find
 cat
 exit
 ```
@@ -73,14 +75,31 @@ exit
 - <img width="559" alt="image" src="https://user-images.githubusercontent.com/95883827/214850661-c8134ed3-25c0-4a9d-952d-2357e2bb25b0.png">
 - Used ```ls``` to find the inhere directory, and ```cd``` go to ```inhere```, and then used ```ls```, there is empty. Then I used ```find``` to search for files in a directory hierarchy   ,so that I can see what kind of the file inside this directory. 
 - <img width="231" alt="image" src="https://user-images.githubusercontent.com/95883827/214851510-cf84d6df-1404-4d62-a392-3015e75c9230.png">
-  NOTE: if I used cd then it will look like this, that's why i used find to know what is the hidden file. 
+
+- NOTE: if I used ```cd``` then it will look like this, that's why i used ```find``` to know what is the hidden file. 
   ```
   bandit3@bandit:~$ cat inhere/
   cat: inhere/: Is a directory
   ```
 - So I google the solution to read the hidden file. Use this link could hlep you understand [Medium.com](https://medium.com/@theGirlWhoEncrypts/overthewire-bandit-level-3-level-4-ab55bcdcff36).
 - Used ```ls -a``` to list all hidden dot files  the and then used ```cat``` to read the hidden file.
-<img width="287" alt="image" src="https://user-images.githubusercontent.com/95883827/214853386-c386bb15-5663-4bc8-a46e-d110a1d17e4c.png">
+- <img width="287" alt="image" src="https://user-images.githubusercontent.com/95883827/214853386-c386bb15-5663-4bc8-a46e-d110a1d17e4c.png">
+- Exit from the bandit3 server. 
+
+
+### LEVEL 4 -> LEVEL 5
+- Used ```ssh``` to connect bandit4.
+- <img width="579" alt="image" src="https://user-images.githubusercontent.com/95883827/214854675-1d7ed8c8-ec89-400b-91cc-26d4ad0639d9.png">
+- In this game, I used the command as follow to know the details.
+- <img width="638" alt="image" src="https://user-images.githubusercontent.com/95883827/214855094-20188131-572b-4c8b-af38-1b67549f9c7e.png">
+- Used command ```file```  ```file ./inhere/*````to determine the file type.
+- <img width="263" alt="image" src="https://user-images.githubusercontent.com/95883827/214855415-f22ea17b-460c-4ab7-a79b-3b2a25457d57.png">
+- Then use ```cat``` to read this human-readble file which is ```-file07```
+- <img width="289" alt="image" src="https://user-images.githubusercontent.com/95883827/214855562-69c2cb12-c3d0-4015-955d-98de6953c7ae.png">
+- Exit from the bandit4 server. 
+
+
+
 
 ## Bullseye
 ### Error before working on Debain.
