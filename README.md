@@ -213,11 +213,12 @@ And then I installed Java and Javac, and now it's available to use java command 
 
 
 
+
 ## Sources
 
-Tasks: [Tero-Karvinen_h1_first-steps](https://terokarvinen.com/2023/information-security-2023/?f=moodle#h1-first-steps)
+**Tasks: [Tero-Karvinen_h1_first-steps](https://terokarvinen.com/2023/information-security-2023/?f=moodle#h1-first-steps)**
 
-Lectures:
+**Lectures:
 
 [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 
@@ -225,20 +226,7 @@ Lectures:
 
 [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
 
-[SelfTaughtDev: OverTheWire Bandit Walkthrough | How To Pass Level 0 & 1, a YouTube video](https://youtu.be/2wozdVl3psY)
-
-[Hitesh J 2020: Dashed Filename – Learn How to Create, Remove, List, Read & Copy!](https://www.webservertalk.com/dashed-filename)
-
-[MayADevBe blog 2021: OverTheWire Bandit Level 4 -> 5 - Walkthrough (SPOILER ALERT)](https://mayadevbe.me/posts/overthewire/bandit/level5/)
-
-[Karvinen 2006: Raportin kirjoittaminen (in Finnish)](https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
-
 [VirtualBox Download page](https://www.virtualbox.org/wiki/Downloads)
 
-[Karvinen 2021: Install Debian on VirtualBox](https://terokarvinen.com/2021/install-debian-on-virtualbox/)
+[Karvinen 2021: Install Debian on VirtualBox](https://terokarvinen.com/2021/install-debian-on-virtualbox/)**
 
-[Meurya 2021: Install Debian 11 Bullseye on VirtualBox](https://www.how2shout.com/linux/install-debian-11-bullseye-on-virtualbox/)
-
-[User tomboi 2021: E: Package 'ufw' has no installation candidate on Debian Linux](https://www.nixcraft.com/t/e-package-ufw-has-no-installation-candidate-on-debian-linux/3726)
-
-[User Omar 2020: Package ufw is not available, but is referred to by another package](https://unix.stackexchange.com/questions/596035/package-ufw-is-not-available-but-is-referred-to-by-another-package)
