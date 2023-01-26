@@ -1,6 +1,6 @@
 # H1-First Step
 This is the homework for the course Information Security by Tero Karvinen.
-Using Hauwei Laptop and Macbook Air for this course. 
+Using Macbook Air for this all the assignments in this course. 
 ```diff
 - text in red
 + text in green
@@ -125,13 +125,13 @@ When I was following the instruction by Tero, I couldn't install any Debain in m
 Now I am installing the Debian installer. Evrything on the process. Not so sure can I install this? 
 
 Update:
-Now I could log in after installed the Debian Installer.
+> Now I could log in after installed the Debian Installer.
  ![Add file: Upload](https://github.com/zhiqingff/h1-First_step/blob/main/Screenshot%202023-01-24%20200746.png)
 
-I couldn't use sudo command. 
+> I couldn't use sudo command. 
  ![Add file: Upload](https://github.com/zhiqingff/h1-First_step/blob/main/Screenshot%202023-01-24%20201132.png)
 
-I think this casued by i installed the Debian installer but not Debian GNU/Linux live.
+> I think this casued by I installed the Debian installer but not Debian GNU/Linux live.
 
 ### START OVER
 Step 1: 
@@ -149,20 +149,49 @@ Now looking for the root reason of this issue. :(
 
 
 ### UPDATE -- FINAL VERSION
-1. installed the UPM and logged in Debian successfully. :) (So I am doing everything in DebainLinuxBullsEye) 
+1. Installed the UPM.
+- <img width="915" alt="image" src="https://user-images.githubusercontent.com/95883827/214858308-8723be8e-4523-4843-9f4d-4365a738079c.png">
+
+2. logged in Debian successfully. :) (So I am doing everything in DebainLinuxBullsEye now.) 
+- ![image](https://user-images.githubusercontent.com/95883827/214858482-73f85aeb-4c69-4661-b306-72dd182461ca.png)
+- ![image](https://user-images.githubusercontent.com/95883827/214858592-e0ab3cc1-0d62-4c40-a9b9-bc30970062b8.png)
+
+
 
 ## WebGoat
-1. Installed and Ran WebGoat. But I couldn't run the java command --> (bash:java:command not found) 
-2. Looking for the solution about java command. 
-3. Installed Java and Javac, and now it's available to use java command and registered on WebGoat successfully. :) 
+
+### Install and Run WebGoat
+
+1. Installed and Ran WebGoat. Couldn't use command ```sudo```, because I am not belong to sudoers. So I changed the permission with my username and it worked. 
+-  <img width="742" alt="Password" src="https://user-images.githubusercontent.com/95883827/214859066-85a93f2b-a421-4df2-9448-1b44d633365a.png">
+-  <img width="733" alt="trust you have received the usual lecture from the local System the" src="https://user-images.githubusercontent.com/95883827/214859125-3316f303-b695-46a5-8d9d-0b4b3a837329.png">
+
+2. But I couldn't run the java command --> (bash:java:command not found). Looking for the solution about java command. 
+Use this link could hlep you understand [CloudLinuxTech](https://cloudlinuxtech.com/java-command-not-found-error/).
+
+And then I installed Java and Javac, and now it's available to use java command and registered on WebGoat successfully. :) 
+
+### Register
+1. Registered the account on WebGoat.
+- ![image](https://user-images.githubusercontent.com/95883827/214860871-f847db1d-dc65-4078-ad63-6abb51f1a1b5.png)
+
+
 ## Hacker warmup
 
-   1) General: HTTP Basics
-     - Entered my name and press GO!. 
-     - Magic number is 71. Found it from the HTML by searched the keyword.
-   3) General: Developer tools
-     - PhoneHome response is 807131848
-     - networkNum: 14.930557891802575
+### General: HTTP Basics
+1) Entered my name and press GO!. 
+- ![image](https://user-images.githubusercontent.com/95883827/214861043-d2190e3e-6072-42df-95d3-e5ec8d64c9a7.png)
+
+2) Magic number is 87. Found it from the Inspector by searched the keyword ```#magic_num```.
+- ![image](https://user-images.githubusercontent.com/95883827/214861682-642a288d-860b-4213-80f9-6988bf87daf6.png)
+- ![image](https://user-images.githubusercontent.com/95883827/214861915-5837f93b-9ef3-4b0c-b940-482027657d90.png)
+
+
+### General: Developer tools
+1) PhoneHome response is 807131848
+2) networkNum: 14.930557891802575
+
+
 ## Sources
 
 Tasks: [Tero-Karvinen_h1_first-steps](https://terokarvinen.com/2023/information-security-2023/?f=moodle#h1-first-steps)
