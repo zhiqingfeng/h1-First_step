@@ -43,7 +43,8 @@ exit
 - Used ```cat``` to read the dashfile(-), now I can see the password for next level. :) 
 - <img width="255" alt="image" src="https://user-images.githubusercontent.com/95883827/214848007-2249309c-b051-4d3a-8cfb-9584c19fd159.png">
 - Now use ```exit``` command to exit from banit1. 
-- 
+
+
 ### LEVEL 2 -> LEVEL 3
 The command I used for this level
 ```
@@ -59,6 +60,7 @@ exit
 - <img width="357" alt="image" src="https://user-images.githubusercontent.com/95883827/214849856-dec99db5-3d36-4800-9df3-cfec72389fd9.png">
 - Exit from the bandit2 server. And going to the next level.
 
+
 ### LEVEL 3 -> LEVEL4
 The command I used for this level
 ```
@@ -67,6 +69,10 @@ ls
 cat
 exit
 ```
+- Used ```ssh``` to connect to bandit3 
+- <img width="559" alt="image" src="https://user-images.githubusercontent.com/95883827/214850661-c8134ed3-25c0-4a9d-952d-2357e2bb25b0.png">
+- Used ```ls``` to find the inhere folder, and ```cd``` go to folder inhere, and then used ```ls```, there is empty. Then I used ```find``` to see what kind of the directory inside this folder. 
+- <img width="231" alt="image" src="https://user-images.githubusercontent.com/95883827/214851510-cf84d6df-1404-4d62-a392-3015e75c9230.png">
 
 
 ## Bullseye
