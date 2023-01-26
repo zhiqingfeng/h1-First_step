@@ -1,5 +1,6 @@
-> h1-First_step
+# h1-First_step
 
+## Error before the working on Debain.
 Here have a problem that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
 Now I am installing the Debian installer. Evrything on the process. Not so sure can I install this? 
 
@@ -25,7 +26,7 @@ I typed sudo apt-get update.But there displayed my username is not in the sudoer
 Now looking for the root reason of this issue. :( 
 
 
---------UPDATE-----------
+## Update 
 1. installed the UPM and logged in Debian successfully. :) (So I am doing everything in DebainLinuxBullsEye) 
 2. Installed and Ran WebGoat. But I couldn't run the java command --> (bash:java:command not found) 
 3. Looking for the solution about java command. 
