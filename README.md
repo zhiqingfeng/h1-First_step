@@ -121,15 +121,15 @@ exit
 
 ## Bullseye
 ### Error before working on Debain.
-Here have a problem that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
+When I was following the instruction by Tero, I couldn't install any Debain in my laptop. The problem is that I couldn't choose to Live when i installed the Debian GNU/Linux Live.
 Now I am installing the Debian installer. Evrything on the process. Not so sure can I install this? 
 
 Update:
 Now I could log in after installed the Debian Installer.
- ![Add file: Upload](Screenshot 2023-01-24 200746.png)
+ ![Add file: Upload](https://github.com/zhiqingff/h1-First_step/blob/main/Screenshot%202023-01-24%20201132.png)
 
 I couldn't use sudo command. 
- ![Add file: Upload](Screenshot 2023-01-24 201132.png)
+ ![Add file: Upload](https://github.com/zhiqingff/h1-First_step/blob/main/Screenshot%202023-01-24%20200746.png)
 
 I think this casued by i installed the Debian installer but not Debian GNU/Linux live.
 
